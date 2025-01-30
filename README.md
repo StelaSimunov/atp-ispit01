@@ -37,6 +37,10 @@ New art movements such as Constructivism (art), De Stijl, and Bauhaus marked the
 See also: International Typographic Style
 An important basis for the future of the Swiss style was the development of the International Typographic Style in the 1920s and 1930s. In 1928, the book "New Typography" was published, written by the German designer and graphic artist Jan Tschichold.[25] "New Typography" outlined the basic principles of the International Typographic Style, the techniques, ideology, and principles of which were the basis of the Swiss style.[26]
 
+```
+print("Hello World")
+```
+
 * jedan
 - dva
 + tri
